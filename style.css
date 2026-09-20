@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    background: #f0f4ff;
+}
+
+h1 {
+    color: #4f46e5;
+}
+
+.box {
+    background: white;
+    margin: 20px auto;
+    padding: 20px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+button {
+    background: #4f46e5;
+    color: white;
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #3730a3;
+}
+
